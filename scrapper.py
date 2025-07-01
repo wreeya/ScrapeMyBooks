@@ -44,6 +44,22 @@ with open('books.csv', 'w', newline = "", encoding = "utf-8") as f:
 #go to git bash
 #git config --global user.name "Riya Bhattarai"
 #git config --global user.email "kan078bct065@kec.edu.np"
+
+#git init
+#git status => if u want to check what are the status of files.
+#get diff => if u want to check what are the changes.
+#git add .
+#git commit -m "Your message"
+#copy paste git code from github
+
+###################################
+# 1. change the code.
+#2. git add .
+#3. git commit -m "Your message"
+#4. git push
+###################################
+
+
 #git ko through bata jati jana kam gardai xan tni haru sita le gareko kam combine garna milxa collaborate garna bela chai git use garxam.
 #git use garnu  ko main karan hamro file ma k vairaxa sabai track garna parxa.kasle k code lekhyo kati jati code lekhyo sab thah huna parxa
 #git ko kam vaneko file ra tesko content track garne ho.
