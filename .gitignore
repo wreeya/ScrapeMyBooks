@@ -1,0 +1,9 @@
+# Ignore PyCharm and other IDE files
+.idea/
+*.iml
+
+# Keep only these files
+!books.csv
+!books.json
+!scrapper.py
+
